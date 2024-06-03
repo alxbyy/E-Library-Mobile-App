@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Beranda</string>
+    <string name="action_bar_title">List Buku</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <string name="about_title">Tentang Aplikasi PINTAR</string>
+    <string name="about_content">Dengan semakin berkembangnya teknologi informasi, kebutuhan akan akses informasi secara cepat dan mudah semakin meningkat. Hal ini juga berlaku dalam dunia literasi dan pengetahuan, di mana akses terhadap berbagai bahan bacaan menjadi sangat penting bagi semua kalangan.\n\nNamun, masih banyak kendala dalam mengakses bahan bacaan secara konvensional, seperti keterbatasan waktu dan lokasi, ketersediaan bahan bacaan yang terbatas, serta biaya yang harus dikeluarkan untuk memperoleh akses ke perpustakaan atau toko buku.\n\nOleh karena itu, kami mengembangkan aplikasi e-library ini sebagai solusi untuk memberikan akses yang lebih mudah dan luas terhadap berbagai koleksi buku dan materi bacaan tanpa harus terikat oleh batasan-batasan fisik perpustakaan atau toko buku.\n\nTujuan utama dari aplikasi e-library kami adalah:\n\n1. Memberikan akses yang lebih luas kepada masyarakat untuk meningkatkan literasi dan pengetahuan melalui berbagai bahan bacaan berkualitas.\n\n2. Memudahkan pengguna untuk mengakses dan membaca buku-buku dan materi bacaan secara online, kapan saja dan di mana saja.\n\n3. Menyediakan berbagai koleksi buku dari berbagai genre dan topik, sehingga pengguna dapat menemukan bahan bacaan sesuai minat dan kebutuhan mereka.\n\n4. Menyajikan pengalaman membaca yang interaktif dan ramah pengguna melalui fitur-fitur seperti bookmark, pencarian, dan rekomendasi buku.\n\n5. Memberikan ruang untuk kolaborasi antara pengguna dan pengarang, serta menyediakan sumber informasi dan edukasi yang bermanfaat melalui buku-buku digital.</string>
+
+</resources>
